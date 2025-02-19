@@ -1,1 +1,1 @@
-[Gomoku](url) is a strategic board game. Yousef AlRawwash and I built this bot for a university assignment. You can challenge it 1v1 by cloning this repo and running the file using your desired Python interpreter.
+[Gomoku](url) is a strategic board game. You can challenge the bot 1v1 by cloning this repo and running the file using your desired Python interpreter.
